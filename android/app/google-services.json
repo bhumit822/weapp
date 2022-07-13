@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511949452544",
+    "project_id": "weappdemo-a2e29",
+    "storage_bucket": "weappdemo-a2e29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511949452544:android:d2dfed97d3f7fd21796fe5",
+        "android_client_info": {
+          "package_name": "com.example.weapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511949452544-4g9t10o392vj120n2ufer24rtqksujco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGSPWOi8rYlQnExt6LMKjRCY0FHFgzNT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511949452544-4g9t10o392vj120n2ufer24rtqksujco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

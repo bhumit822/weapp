@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">weApp</string>
+    <string name="facebook_app_id">364768665718186</string>
+    <string name="facebook_client_token">51d19edb9045361d8bceac3274bae2e1</string>
+</resources>
